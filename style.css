@@ -1,0 +1,7 @@
+body{margin:0;font-family:Arial,sans-serif;background:#f4f6f8;color:#333}
+.hero{background:#2563eb;color:#fff;text-align:center;padding:80px 20px}
+.btn{display:inline-block;margin-top:20px;padding:12px 22px;background:#fff;color:#2563eb;text-decoration:none;border-radius:8px;font-weight:bold}
+section{max-width:900px;margin:auto;padding:50px 20px}
+.skills{display:flex;flex-wrap:wrap;gap:10px}
+.skills span,.card{background:#fff;padding:12px 18px;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.1)}
+footer{text-align:center;padding:25px;background:#111;color:#fff;margin-top:40px}
